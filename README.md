@@ -76,19 +76,19 @@ Relation training converged fast, while tagging needed more epochs. The model’
 
 Here are some plots showing the training process:
 
-![General Loss](images/final_general_loss.png)  
+![General Loss](screenshots/final_general_loss.png)  
 *Caption: Loss curves for training and validation across both tasks.*
 
-![Tagging Loss](images/final_tag_loss.png)  
+![Tagging Loss](screenshots/final_tag_loss.png)  
 *Caption: Loss for IOB slot tagging over epochs.*
 
-![Tagging Accuracy](images/final_tag_acc.png)  
+![Tagging Accuracy](screenshots/final_tag_acc.png)  
 *Caption: Accuracy trends for IOB slot tagging.*
 
-![Relation Loss](images/final_rel_loss.png)  
+![Relation Loss](screenshots/final_rel_loss.png)  
 *Caption: Loss for relation extraction over epochs.*
 
-![Relation Accuracy](images/final_rel_acc.png)  
+![Relation Accuracy](screenshots/final_rel_acc.png)  
 *Caption: Accuracy trends for relation extraction.*
 
 ## What I Learned
